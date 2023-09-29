@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Full-Stack Blog App Tutorial | Next.js MongoDB Blog App Project Full Course
+# https://www.youtube.com/watch?v=DpYE5zPDRVQ&t=3s
+
+
 # dependencies
 /node_modules
 /.pnp
